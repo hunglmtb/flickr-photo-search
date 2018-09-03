@@ -1,0 +1,26 @@
+{
+  "name": "flickr-photo-search",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "fetch-mock": "^5.8.1",
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "@material-ui/icons": "^3.0.1",
+    "material-ui": "^0.16.6",
+    "mobx": "^3.0.0",
+    "mobx-react": "^4.1.0",
+    "qs": "^6.3.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-tap-event-plugin": "^3.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
